@@ -1,0 +1,1 @@
+<h1>A dice role: <?php echo rand(1, 6); ?></h1>
